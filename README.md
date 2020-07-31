@@ -7,7 +7,7 @@
 * JavaScript
 * SQL
 * HTML
-#Features
+# Features
 * 도서 등록 및 사진 등록
 * 모든 도서 카테고리 별 구현
 * 상세 도서에 대한 페이지와 그 도서외 도서 추천
