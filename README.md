@@ -14,3 +14,5 @@
 * 태그-비속어 필터링
 
 # ERD
+<img src ="https://user-images.githubusercontent.com/61791986/89006054-d39ef880-d340-11ea-8636-9a40d32dd553.PNG">
+</img>
