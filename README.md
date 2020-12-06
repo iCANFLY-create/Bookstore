@@ -23,6 +23,8 @@
 
 ## 🥇대표 담당 기능 2가지
 * 쿠키 이용하여 최근 본 책 조회
-<img src ="https://user-images.githubusercontent.com/61791986/89006054-d39ef880-d340-11ea-8636-9a40d32dd553.PNG">
+<img src ="https://user-images.githubusercontent.com/61791986/101280842-c0c89300-380e-11eb-9679-7edcefc87eab.png">
 </img>
 * 도서 결제
+<img src ="https://user-images.githubusercontent.com/61791986/101280845-d1790900-380e-11eb-9f60-c9968910e873.png" >
+</img>
